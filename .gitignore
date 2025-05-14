@@ -1,9 +1,0 @@
-node_modules/
-.next/
-.env*
-*.log
-.DS_Store
-*.zip
-*.tar.gz
-*.bak
-*.log*
